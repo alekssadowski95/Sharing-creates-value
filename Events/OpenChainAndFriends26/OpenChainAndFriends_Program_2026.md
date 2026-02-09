@@ -137,6 +137,8 @@ Again with the idea to grow the Open Source Community in Stuttgart/Baden-Württe
 •	***Case studies and best practices***  
 •	***Demos, simulations, “getting started” workshops** for available **Open Source infrastructure, tools, initiatives**.*  
 •	*“Ask me anything” drop-in sessions*  
+Session: "Creating a exciting ecosystem for teaching open-source-software in mechanical engineering"
+
 <sub>[go to schedule Day1](#t1_1) [go to schedule Day3](#t3_4)</sub> 
 
 ### Automotive / SDV
